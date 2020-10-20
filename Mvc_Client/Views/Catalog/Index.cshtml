@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Mvc_Client.Models.BookViewModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/For_Catalog.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table" >
+    <tr>
+       
+        <th>
+            @Html.DisplayNameFor(model => model.bookName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.bookAuthor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.bookEdition)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.bookName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.bookAuthor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.bookEdition)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.bookId}) |
+                    @Html.ActionLink("Details", "Details", new { id = item.bookId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.bookId })
+                </td>
+        </tr>
+
+    }
+    <tr>
+        <td>
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        </td>
+    </tr>
+</table>
+

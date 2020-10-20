@@ -1,0 +1,355 @@
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\appsettings.json
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.exe
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.deps.json
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.runtimeconfig.json
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.runtimeconfig.dev.json
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.pdb
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.Views.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.Views.pdb
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.AssemblyInfoInputs.cache
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.AssemblyInfo.cs
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.csproj.CoreCompileInputs.cache
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.MvcApplicationPartsAssemblyInfo.cache
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.RazorAssemblyInfo.cache
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.RazorAssemblyInfo.cs
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.TagHelpers.input.cache
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.TagHelpers.output.cache
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.RazorCoreGenerate.cache
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Create.cshtml.g.cs
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Details.cshtml.g.cs
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Edit.cshtml.g.cs
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\For_Catalog.cshtml.g.cs
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.RazorTargetAssemblyInfo.cache
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.RazorTargetAssemblyInfo.cs
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.Views.pdb
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.csproj.CopyComplete
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\staticwebassets\Mvc_Client.StaticWebAssets.Manifest.cache
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\staticwebassets\Mvc_Client.StaticWebAssets.xml
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.dll
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.pdb
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.genruntimeconfig.cache
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.csprojAssemblyReference.cache
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NavForLoginPage.cshtml.g.cs
+D:\course\project\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\appsettings.json
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.exe
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.deps.json
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.runtimeconfig.json
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.runtimeconfig.dev.json
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.pdb
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.Views.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.Views.pdb
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.csprojAssemblyReference.cache
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.AssemblyInfoInputs.cache
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.AssemblyInfo.cs
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.csproj.CoreCompileInputs.cache
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.MvcApplicationPartsAssemblyInfo.cache
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.RazorAssemblyInfo.cache
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.RazorAssemblyInfo.cs
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.TagHelpers.input.cache
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.TagHelpers.output.cache
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.RazorCoreGenerate.cache
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Create.cshtml.g.cs
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Details.cshtml.g.cs
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Edit.cshtml.g.cs
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\For_Catalog.cshtml.g.cs
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NavForLoginPage.cshtml.g.cs
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.RazorTargetAssemblyInfo.cache
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.RazorTargetAssemblyInfo.cs
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.Views.pdb
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.csproj.CopyComplete
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\staticwebassets\Mvc_Client.StaticWebAssets.Manifest.cache
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\staticwebassets\Mvc_Client.StaticWebAssets.xml
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.dll
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.pdb
+D:\course\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.genruntimeconfig.cache
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\appsettings.json
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.exe
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.deps.json
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.runtimeconfig.json
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.runtimeconfig.dev.json
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.pdb
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.Views.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Mvc_Client.Views.pdb
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.AssemblyInfoInputs.cache
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.AssemblyInfo.cs
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.csproj.CoreCompileInputs.cache
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.MvcApplicationPartsAssemblyInfo.cache
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.RazorAssemblyInfo.cache
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.RazorAssemblyInfo.cs
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.TagHelpers.input.cache
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.TagHelpers.output.cache
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.RazorCoreGenerate.cache
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Create.cshtml.g.cs
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Details.cshtml.g.cs
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Edit.cshtml.g.cs
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\For_Catalog.cshtml.g.cs
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NavForLoginPage.cshtml.g.cs
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.RazorTargetAssemblyInfo.cache
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.RazorTargetAssemblyInfo.cs
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.Views.pdb
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.csproj.CopyComplete
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\staticwebassets\Mvc_Client.StaticWebAssets.Manifest.cache
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\staticwebassets\Mvc_Client.StaticWebAssets.xml
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.dll
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.pdb
+D:\course\New folder\Mvc_Client\obj\Debug\netcoreapp3.1\Mvc_Client.genruntimeconfig.cache

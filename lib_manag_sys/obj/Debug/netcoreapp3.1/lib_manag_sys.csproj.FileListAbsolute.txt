@@ -1,0 +1,453 @@
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\appsettings.json
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.exe
+D:\course\project\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.csprojAssemblyReference.cache
+D:\course\project\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.AssemblyInfoInputs.cache
+D:\course\project\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.AssemblyInfo.cs
+D:\course\project\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.RazorTargetAssemblyInfo.cache
+D:\course\project\lib_manag_sys\obj\Debug\netcoreapp3.1\staticwebassets\lib_manag_sys.StaticWebAssets.Manifest.cache
+D:\course\project\lib_manag_sys\obj\Debug\netcoreapp3.1\staticwebassets\lib_manag_sys.StaticWebAssets.xml
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\course\project\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.csproj.CopyComplete
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\log4net.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.deps.json
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.runtimeconfig.json
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.runtimeconfig.dev.json
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.pdb
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\project\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.csproj.CoreCompileInputs.cache
+D:\course\project\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.MvcApplicationPartsAssemblyInfo.cs
+D:\course\project\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.MvcApplicationPartsAssemblyInfo.cache
+D:\course\project\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.dll
+D:\course\project\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.pdb
+D:\course\project\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.genruntimeconfig.cache
+D:\course\project\lib_manag_sys\bin\Debug\netcoreapp3.1\Log4net.config
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Log4net.config
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\appsettings.json
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.exe
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.deps.json
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.runtimeconfig.json
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.runtimeconfig.dev.json
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.pdb
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\log4net.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\course\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.csprojAssemblyReference.cache
+D:\course\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.AssemblyInfoInputs.cache
+D:\course\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.AssemblyInfo.cs
+D:\course\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.RazorTargetAssemblyInfo.cache
+D:\course\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.csproj.CopyComplete
+D:\course\lib_manag_sys\obj\Debug\netcoreapp3.1\staticwebassets\lib_manag_sys.StaticWebAssets.Manifest.cache
+D:\course\lib_manag_sys\obj\Debug\netcoreapp3.1\staticwebassets\lib_manag_sys.StaticWebAssets.xml
+D:\course\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.dll
+D:\course\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.pdb
+D:\course\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.genruntimeconfig.cache
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\course\lib_manag_sys\bin\Debug\netcoreapp3.1\Moq.dll
+D:\course\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.csproj.CoreCompileInputs.cache
+D:\course\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.MvcApplicationPartsAssemblyInfo.cs
+D:\course\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.MvcApplicationPartsAssemblyInfo.cache
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Log4net.config
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\appsettings.json
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.exe
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.deps.json
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.runtimeconfig.json
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.runtimeconfig.dev.json
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\lib_manag_sys.pdb
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\log4net.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Moq.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\course\New folder\lib_manag_sys\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\course\New folder\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.AssemblyInfoInputs.cache
+D:\course\New folder\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.AssemblyInfo.cs
+D:\course\New folder\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.csproj.CoreCompileInputs.cache
+D:\course\New folder\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.MvcApplicationPartsAssemblyInfo.cs
+D:\course\New folder\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.MvcApplicationPartsAssemblyInfo.cache
+D:\course\New folder\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.RazorTargetAssemblyInfo.cache
+D:\course\New folder\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.csproj.CopyComplete
+D:\course\New folder\lib_manag_sys\obj\Debug\netcoreapp3.1\staticwebassets\lib_manag_sys.StaticWebAssets.Manifest.cache
+D:\course\New folder\lib_manag_sys\obj\Debug\netcoreapp3.1\staticwebassets\lib_manag_sys.StaticWebAssets.xml
+D:\course\New folder\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.dll
+D:\course\New folder\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.pdb
+D:\course\New folder\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.genruntimeconfig.cache
+D:\course\New folder\lib_manag_sys\obj\Debug\netcoreapp3.1\lib_manag_sys.csprojAssemblyReference.cache

@@ -1,0 +1,206 @@
+2020-10-16 20:38:29,307 [5] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 12:37:37,462 [4] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 13:01:19,411 [4] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 13:05:41,093 [14] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 13:25:19,195 [10] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 13:25:41,413 [5] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 13:47:25,013 [31] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 13:53:56,779 [13] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:05:49,116 [5] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into Add New Book
+2020-10-17 14:14:25,737 [4] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:15:59,939 [15] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:38:48,497 [9] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:39:02,649 [4] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:42:55,028 [19] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:43:14,927 [19] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:43:20,638 [19] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:43:28,647 [20] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:44:08,450 [25] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:44:14,688 [27] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:44:15,397 [26] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:44:49,416 [31] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:45:12,113 [31] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:47:51,549 [35] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:48:21,348 [16] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:48:37,028 [16] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:48:39,276 [13] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:48:40,317 [13] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:48:41,154 [11] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:49:57,356 [17] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into Update Book Information
+2020-10-17 14:50:06,516 [17] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 14:50:23,430 [17] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 16:02:41,287 [4] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 16:03:08,737 [4] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 16:03:22,429 [4] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 16:03:27,839 [18] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 16:03:30,026 [8] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 16:03:45,878 [15] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 16:03:46,563 [4] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 16:06:19,423 [23] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 16:14:53,639 [30] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 16:16:30,805 [33] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 16:16:32,233 [35] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 16:20:46,513 [13] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 16:21:30,602 [40] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 16:22:15,013 [45] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 16:22:20,982 [45] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 18:05:32,860 [15] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 18:07:37,258 [21] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-17 18:09:46,907 [5] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 18:10:08,697 [19] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-17 18:11:05,455 [23] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-17 18:11:28,262 [28] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 18:12:22,993 [9] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 18:12:41,237 [12] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-17 18:16:56,663 [4] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 18:17:08,037 [9] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-17 18:20:32,490 [13] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-17 18:23:12,318 [6] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 18:56:04,910 [8] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 18:56:07,924 [14] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-17 18:56:14,195 [13] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 18:56:26,605 [14] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 18:57:01,892 [22] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 18:57:23,275 [19] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 18:57:35,717 [19] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 18:57:40,819 [21] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 18:57:44,607 [24] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 18:57:46,485 [20] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 18:58:38,448 [30] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into Update Book Information
+2020-10-17 18:58:51,221 [30] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:01:34,681 [36] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:05:44,225 [43] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:05:56,843 [43] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:27:13,161 [10] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:27:26,208 [17] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:27:35,723 [16] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-17 19:28:10,731 [19] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into Add New Book
+2020-10-17 19:28:19,716 [20] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:28:43,950 [25] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:28:56,078 [26] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:29:00,647 [27] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-17 19:29:03,452 [28] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-17 19:30:27,419 [32] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:31:30,908 [36] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:32:12,455 [42] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:32:27,897 [43] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:32:41,322 [42] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:32:44,625 [44] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:32:47,202 [42] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:32:48,844 [43] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:32:49,530 [41] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:32:50,014 [43] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:32:50,451 [44] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:32:50,933 [42] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:32:51,408 [41] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:32:51,787 [41] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:32:52,207 [42] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:32:52,620 [44] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:32:53,099 [41] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:32:53,499 [42] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 19:33:50,227 [48] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 20:37:35,266 [39] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 20:37:40,544 [43] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-17 20:38:01,997 [39] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-17 20:38:12,402 [44] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:16:04,954 [5] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:16:18,721 [4] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:17:41,402 [17] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:21:09,121 [26] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:23:02,592 [36] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:23:15,922 [36] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:26:11,949 [44] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:26:28,536 [46] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:30:32,447 [51] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:30:47,753 [51] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:30:54,532 [52] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:30:56,662 [53] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:30:58,254 [53] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:30:59,757 [54] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:36:57,033 [60] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:37:08,029 [60] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:37:47,583 [63] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:38:15,391 [64] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:42:12,932 [4] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:42:28,059 [9] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:51:03,295 [24] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:52:27,019 [25] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:55:15,368 [33] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:57:02,434 [5] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:57:35,538 [7] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 00:58:24,274 [23] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 08:30:47,604 [4] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 08:32:58,027 [5] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 08:33:52,174 [9] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 08:35:18,578 [17] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 08:35:30,798 [15] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-18 08:39:42,468 [26] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 08:42:40,934 [31] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 08:47:17,581 [37] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 08:47:27,320 [39] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 08:59:16,831 [23] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 09:21:41,562 [9] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 09:21:43,984 [13] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 09:21:45,466 [15] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 09:21:46,349 [15] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 09:21:47,067 [14] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-18 09:22:22,937 [20] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 09:23:47,828 [24] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 09:23:55,466 [21] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 09:40:21,550 [26] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 09:40:49,111 [26] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 09:59:17,341 [11] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 17:51:09,426 [5] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into Add New Book
+2020-10-18 17:58:27,840 [23] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 17:59:20,549 [24] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into Add New Book
+2020-10-18 17:59:37,742 [24] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 18:02:03,492 [28] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into Update Book Information
+2020-10-18 18:05:23,774 [31] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 18:05:48,873 [35] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-18 18:08:42,780 [36] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 18:08:51,111 [36] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-18 18:09:22,725 [40] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into Update Book Information
+2020-10-18 18:09:26,268 [43] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 18:10:05,982 [46] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 18:10:39,525 [52] INFO  library_mang_sys.Controllers.books_infoController [(null)] - Deleting a book by taking its Id
+2020-10-18 18:12:28,496 [55] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-18 18:12:31,353 [55] INFO  library_mang_sys.Controllers.books_infoController [(null)] - Deleting a book by taking its Id
+2020-10-18 18:12:31,378 [57] INFO  library_mang_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-19 14:41:42,710 [4] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-19 14:41:56,069 [4] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-19 14:42:45,792 [7] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into Add New Book
+2020-10-19 14:43:06,448 [19] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-19 14:43:57,956 [22] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into Update Book Information
+2020-10-19 14:44:06,009 [22] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-19 14:50:12,792 [9] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-19 14:51:14,159 [15] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-19 14:52:51,536 [12] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into Add New Book
+2020-10-19 14:54:17,109 [9] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-19 14:54:47,688 [21] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into Update Book Information
+2020-10-19 14:55:32,024 [23] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - Deleting a book by taking its Id
+2020-10-19 14:56:50,039 [28] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-19 14:56:52,981 [26] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-19 14:56:57,216 [26] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-19 14:57:03,570 [27] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into Update Book Information
+2020-10-19 14:57:03,598 [26] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-19 14:57:15,469 [27] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - Deleting a book by taking its Id
+2020-10-19 14:57:15,497 [26] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-19 14:57:50,713 [31] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into Add New Book
+2020-10-19 14:57:50,751 [32] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-19 15:08:26,361 [38] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-19 15:10:46,260 [39] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-19 15:19:04,701 [37] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-19 15:21:03,160 [44] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-19 16:55:48,673 [40] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-20 08:29:40,718 [6] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-20 08:30:47,946 [15] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-20 08:30:55,065 [9] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-20 13:43:43,951 [4] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-20 14:03:04,355 [18] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-20 14:03:07,828 [18] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get book by ID
+2020-10-20 14:04:14,876 [23] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-20 14:04:54,163 [26] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-20 14:10:15,214 [9] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-20 14:12:04,878 [24] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-20 14:14:07,589 [28] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books
+2020-10-20 14:15:27,759 [21] INFO  lib_manag_sys.Controllers.books_infoController [(null)] - entering into get all books

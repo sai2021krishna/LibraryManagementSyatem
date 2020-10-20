@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lib_manag_sys", "lib_manag_sys.csproj", "{1090079A-1158-4C6E-976D-5472561FEC32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestLibApi", "..\NUnitTestLibApi\NUnitTestLibApi.csproj", "{ABDCA504-1E18-4859-BD31-0AABE936D566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1090079A-1158-4C6E-976D-5472561FEC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1090079A-1158-4C6E-976D-5472561FEC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1090079A-1158-4C6E-976D-5472561FEC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1090079A-1158-4C6E-976D-5472561FEC32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABDCA504-1E18-4859-BD31-0AABE936D566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDCA504-1E18-4859-BD31-0AABE936D566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDCA504-1E18-4859-BD31-0AABE936D566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDCA504-1E18-4859-BD31-0AABE936D566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5D82C35-6BCA-46A6-AA5B-A260819626CE}
+	EndGlobalSection
+EndGlobal

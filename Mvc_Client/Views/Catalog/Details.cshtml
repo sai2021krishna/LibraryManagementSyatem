@@ -1,0 +1,43 @@
+﻿@model Mvc_Client.Models.BookViewModel
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/For_Catalog.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>BookViewModel</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.bookId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.bookId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.bookAuthor)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.bookAuthor)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.bookName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.bookName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.bookEdition)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.bookEdition)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>
